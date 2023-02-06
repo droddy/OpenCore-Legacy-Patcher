@@ -91,7 +91,7 @@ Machines that require this are those with AMD Metal dGPUs:
 
 :::
 
-Below entires represent GPUs no longer natively supported, ie. requiring root volume patch with OpenCore Legacy Patcher:
+Below entries represent GPUs no longer natively supported, ie. requiring root volume patch with OpenCore Legacy Patcher:
 
 :::details GPUs requiring patching in macOS Big Sur
 
